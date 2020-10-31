@@ -1,0 +1,12 @@
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.MainForm.resources
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.Resources.resources
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.vbproj.GenerateResource.cache
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.vbproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\Bislak\bin\Debug\Bislak.exe.config
+C:\Users\utente\source\repos\Bislak\bin\Debug\Bislak.exe
+C:\Users\utente\source\repos\Bislak\bin\Debug\Bislak.pdb
+C:\Users\utente\source\repos\Bislak\bin\Debug\Bislak.xml
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.exe
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.xml
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.pdb
+C:\Users\utente\source\repos\Bislak\obj\Debug\Bislak.vbprojAssemblyReference.cache
